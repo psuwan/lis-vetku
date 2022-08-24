@@ -1,1 +1,1 @@
-# lis-vetku
+# Lab Infromation System: Kasetsart University
